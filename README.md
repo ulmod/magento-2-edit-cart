@@ -1,8 +1,8 @@
 # Magento 2 Edit Shopping Cart Extension
 
-[Magento 2 Edit Shopping Cart](https://www.ulmod.com/edit-cart-for-magento-2.html)  is a Magento 2 extension that allows your shoppers to edit product options and quantities rich on the shopping cart page.
+[Magento 2 Edit Shopping Cart](https://www.ulmod.com/edit-cart-for-magento-2.html)   is a Magento 2 extension that allows your buyers to edit product options and quantities right at the shopping cart page.
 
-With Magento 2 Edit Shopping Cart Navigation, your buyers won't be redirected to the product page anytime they want to edit the product quantity and custom options. Instead, they will be able to edit it directly at the cart page via an ajax popup.
+With Magento 2 Edit Shopping Cart, your buyers won't be redirected to the product page anytime they want to edit the product quantity and custom options. Instead, they will be able to edit the product quantity and custom options directly at the cart page via an ajax popup.
 
 <a href="https://www.ulmod.com/edit-cart-for-magento-2.html"><img width="205" src="https://www.ulmod.com/media/wysiwyg/um-download-now1.png"></a>
 
